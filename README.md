@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning React Native and Web Development
+- 🌱 I’m currently looking projects in React Native and Web Development
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with Dependency injection integration on big projects
 - 💬 Ask me about Android and web development 
